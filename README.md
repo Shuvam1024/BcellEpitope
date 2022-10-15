@@ -1,7 +1,10 @@
 # BcellEpitope
 I reproduced and then further extended the Machine Learning model in a Kaggle Project on B-cell Epitope Prediction for COVID-19/SARS vaccine development.
+
 Relevant Papers:
+
 https://www.frontiersin.org/articles/10.3389/fimmu.2017.00278/full
+
 https://www.biorxiv.org/content/10.1101/2020.07.27.224121v1.full.pdf
 
 Data is from The Immune Epitope Database(IEDB).
@@ -10,7 +13,7 @@ This work outlines a method for B-cell epitope prediction using an attention-bas
 The structural and chemical features of the peptides considered in this study are the following: β-turn, relative surface accessibility, antigenicity, and hydrophilicity.  A total of eight of the structural and chemical features are integrated into the network of the proposed method. Then, the attention mechanism is applied to estimate which amino acids are particularly noteworthy for the purposes of epitope estimation. The proposed method achieves better accuracy compared with the conventional method in the experimental prediction of epitope regions using the data from the immune epitope database.
 
 
-Content
+
 		This contains three data files:
 		
 
